@@ -1,0 +1,3 @@
+﻿  test.cpp
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Task(void)" (?Task@@YAHXZ) в функции "private: virtual void __cdecl TaskTest_HandlesInputAndOutput_Test::TestBody(void)" (?TestBody@TaskTest_HandlesInputAndOutput_Test@@EEAAXXZ).
+C:\Users\USER\OneDrive\Документы\OAIP\LR5\Task_1\StaticLib\x64\Debug\Test1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

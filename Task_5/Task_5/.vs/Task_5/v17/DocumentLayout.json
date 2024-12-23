@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E565F565-EF68-4494-8EA0-321EA23D8579}|Task_5\\Task_5.vcxproj|C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Task_5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E565F565-EF68-4494-8EA0-321EA23D8579}|Task_5\\Task_5.vcxproj|solutionrelative:Task_5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7216AE-14D3-4629-9171-4B072DBACF4F}|Test5\\Test5.vcxproj|C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Test5\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC7216AE-14D3-4629-9171-4B072DBACF4F}|Test5\\Test5.vcxproj|solutionrelative:Test5\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Test5\\test.cpp",
+              "RelativeDocumentMoniker": "Test5\\test.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Test5\\test.cpp",
+              "RelativeToolTip": "Test5\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T22:03:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Task_5\\main.cpp",
+              "RelativeDocumentMoniker": "Task_5\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\OAIP\\LR5\\Task_5\\Task_5\\Task_5\\main.cpp",
+              "RelativeToolTip": "Task_5\\main.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T20:37:48.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
